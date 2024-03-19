@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://ant.design">
-    <img width="200" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
+    <img width="200" src="https://github.com/marcojourney/reactunikit/blob/main/logo.png">
   </a>
 </p>
 
-<h1 align="center">Ant Design</h1>
+<h1 align="center">React Unikit</h1>
 
 <div align="center">
 
